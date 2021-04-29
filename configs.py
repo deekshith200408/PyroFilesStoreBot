@@ -13,8 +13,10 @@ class Config(object):
 	UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", None)
 	LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL"))
 	ABOUT_BOT_TEXT = f"""
-This is Permanent Files Store Bot!
-Send me any file I will save it in my Database. Also works for channel. Add me to channel as Admin with Edit Permission, I will add Save Uploaded File in Channel & add Sharable Button Link.
+
+𝐓𝐡𝐢𝐬 𝐢𝐬 𝐏𝐞𝐫𝐦𝐚𝐧𝐞𝐧𝐭 𝐅𝐢𝐥𝐞𝐬 𝐒𝐭𝐨𝐫𝐞 𝐁𝐨𝐭!
+
+𝐒𝐞𝐧𝐝 𝐦𝐞 𝐚𝐧𝐲 𝐟𝐢𝐥𝐞 𝐈 𝐰𝐢𝐥𝐥 𝐬𝐚𝐯𝐞 𝐢𝐭 𝐢𝐧 𝐦𝐲 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞. 𝐀𝐥𝐬𝐨 𝐰𝐨𝐫𝐤𝐬 𝐟𝐨𝐫 𝐜𝐡𝐚𝐧𝐧𝐞𝐥. 𝐀𝐝𝐝 𝐦𝐞 𝐭𝐨 𝐜𝐡𝐚𝐧𝐧𝐞𝐥 𝐚𝐬 𝐀𝐝𝐦𝐢𝐧 𝐰𝐢𝐭𝐡 𝐄𝐝𝐢𝐭 𝐏𝐞𝐫𝐦𝐢𝐬𝐬𝐢𝐨𝐧, 𝐈 𝐰𝐢𝐥𝐥 𝐚𝐝𝐝 𝐒𝐚𝐯𝐞 𝐔𝐩𝐥𝐨𝐚𝐝𝐞𝐝 𝐅𝐢𝐥𝐞 𝐢𝐧 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 & 𝐚𝐝𝐝 𝐒𝐡𝐚𝐫𝐚𝐛𝐥𝐞 𝐁𝐮𝐭𝐭𝐨𝐧 𝐋𝐢𝐧𝐤
 
 🤖 **My Name:** [Files Store Bot](https://t.me/{BOT_USERNAME})
 
@@ -24,23 +26,46 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 📡 **Hosted on:** [Heroku](https://heroku.com)
 
-🧑🏻‍💻 **Developer:** @AbirHasan2005
+🧑🏻‍💻 **Developer:** @Deeks_04_8
 
-👥 **Support Group:** [Linux Repositories](https://t.me/linux_repo)
 
-📢 **Updates Channel:** [Discovery Projects](https://t.me/Discovery_Updates)
+
 """
 	ABOUT_DEV_TEXT = f"""
-🧑🏻‍💻 **Developer:** @AbirHasan2005
+🧑🏻‍💻 **Developer:**  @Deeks_04_8
+
+
+
+
+
+
+
+
+
 
 Developer is Super Noob. Just Learning from Official Docs. Please Donate the developer for Keeping the Service Alive.
 
 Also remember that developer will Delete Adult Contents from Database. So better don't Store Those Kind of Things.
 
-[Donate Now](https://www.paypal.me/AbirHasan2005) (PayPal)
 """
 	HOME_TEXT = """
-, [{}](tg://user?id={})\n\nThis is Permanent **File Store Bot**.
 
-Send me any file I will give you a permanent Sharable Link. I Support Channel Also! Check **About Bot** Button.
-"""
+ʜᴀɪ ᴛʜᴀʀᴇ,  [{}](tg://user?id={})\n\n
+
+ᴛʜɪs ɪs ᴘᴇʀᴍᴀɴᴇɴᴛ **ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ**.
+
+sᴇɴᴅ ᴍᴇ ᴀɴʏ ғɪʟᴇ ɪ ᴡɪʟʟ ɢɪᴠᴇ ʏᴏᴜ ᴀ ᴘᴇʀᴍᴀɴᴇɴᴛ sʜᴀʀᴀʙʟᴇ ʟɪɴᴋ. ɪ sᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ ᴀʟsᴏ! 
+
+ᴊᴏɪɴ ᴏᴜʀ ɢʀᴏᴜᴘ  ~> @UM_Requests
+
+⚔️ᴍᴀɪɴᴛɪɴᴇᴅ ʙʏ 😎 =>  @Deeks_04_8
+ 
+🏅© @UNI_MOVIES_BOX.🏅"""
+
+
+
+
+
+
+
+
